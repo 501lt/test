@@ -10,6 +10,15 @@
     font-weight: 600;
 }
 
+.footer .item div {
+    color: #000;
+}
+
+.contactUs {
+    color: #000;
+    font-weight: 600;
+}
+
 
 /* 后面加的部分 */
 
@@ -58,12 +67,6 @@
     border: none;
 }
 
-.form .meassage {
-    margin: 15px 0 0;
-    color: #fff;
-    font-size: 12px;
-}
-
 .form .meassage a {
     color: orange;
     text-decoration: none;
@@ -93,4 +96,5 @@ body {
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
+    /* color: #000; */
 }
